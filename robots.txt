@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://omniaAbdallah.github.io/notes-ppu2yj/sitemap.xml
